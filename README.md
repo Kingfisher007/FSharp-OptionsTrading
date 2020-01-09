@@ -1,1 +1,1 @@
-# FSharp-OptionsTrading
+# FSharp-QuantFinance
