@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Program.fs" />
+    <Compile Include="LinearRegression-LeastSquare.fsi" />
+    <Compile Include="DataVisualisation.fs" />
+    <Compile Include="BollingerBands.fs" />
+    <Compile Include="WienerProcess.fsi" />
+    <Compile Include="NormalDistribution.fsi" />
+    <Compile Include="Volatility.fsi" />
+    <Compile Include="OptionPayoff.fsi" />
+  </ItemGroup>
+</Project>
